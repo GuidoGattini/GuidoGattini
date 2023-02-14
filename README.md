@@ -24,4 +24,5 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 - **Postgresql**
 
 
+
 ### :boom: **No dudes en contactarme!** :boom:
