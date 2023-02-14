@@ -1,7 +1,8 @@
 # Mi nombre es Guido Gattini
 
 ## :beginner: Quién Soy? 
-Soy programador FullStack, con orientación principal a Front-End
+Soy programador FullStack, con orientación principal a Front-End.
+
 Desde chico paso tiempo en la computadora, arreglando problemas, ya sea de hardware como de software. Hace un tiempo me puse la meta de estudiar programación, y acá estoy, con ganas de seguir aprendiendo y mejorando! 
 
 ## :calendar: Actualidad
