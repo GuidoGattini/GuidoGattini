@@ -26,7 +26,7 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 
 
 
-#### :boom: **No dudes en contactarme!** :boom:
+#### :boom: **NO DUDES EN CONTACTARME!** :boom:
 
 :link: [Linkedin](https://www.linkedin.com/in/guido-gattini-54778125b/?original_referer=)
 
