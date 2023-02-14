@@ -25,4 +25,8 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 
 
 
-### :boom: **No dudes en contactarme!** :boom:
+#### :boom: **No dudes en contactarme!** :boom:
+
+:link: 
+
+:email: Mail: gttnguido@gmail.com
