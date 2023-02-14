@@ -14,15 +14,15 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 
 ## :computer: Tecnologías
 
-- **Javascript**
-- **Css** 
+- **JavaScript**
+- **CSS** 
 - **React.js**
 - **Redux**
 - **Express.js**
 - **Git**
 - **HTML**
 - **Node.js**
-- **Postgresql**
+- **PostgreSQL**
 
 
 
