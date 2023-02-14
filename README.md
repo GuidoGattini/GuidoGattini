@@ -15,7 +15,7 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 ## :computer: Tecnologías
 
 - **Javascript**
-- **Css3** 
+- **Css** 
 - **React.js**
 - **Redux**
 - **Express.js**
