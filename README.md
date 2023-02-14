@@ -29,4 +29,4 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 
 :link: [Linkedin](https://www.linkedin.com/in/guido-gattini-54778125b/?original_referer=)
 
-:email: Mail: gttnguido@gmail.com
+:email: gttnguido@gmail.com
