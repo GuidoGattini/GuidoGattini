@@ -17,6 +17,7 @@ Mi principal objetivo es poder conseguir trabajo y poder terminar la carrera de 
 - **JavaScript**
 - **CSS** 
 - **React.js**
+- **React Native**
 - **Redux**
 - **Express.js**
 - **Git**
